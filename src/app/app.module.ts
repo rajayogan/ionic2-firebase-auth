@@ -8,11 +8,11 @@ import { LoginPage } from '../pages/login/login';
 
   // Initialize Firebase
   const config = {
-    apiKey: "AIzaSyCEUM0GD7N_d3SmolB6RBX96CxMhIO0d8E",
-    authDomain: "myapp-4eadd.firebaseapp.com",
-    databaseURL: "https://myapp-4eadd.firebaseio.com",
-    storageBucket: "myapp-4eadd.appspot.com",
-    messagingSenderId: "493016366518"
+    apiKey: "<yourkeyhere>",
+    authDomain: "<yourdomainhere>",
+    databaseURL: "<yourdburlhere>",
+    storageBucket: "<yourstoragebuckethere>",
+    messagingSenderId: "<yoursenderId>"
   };
 
 
